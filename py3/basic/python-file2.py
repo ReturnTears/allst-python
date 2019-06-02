@@ -15,3 +15,11 @@ print(f.readline())
 f.write('missing you away')
 f.close()
 
+# with 推荐使用， 可以同时管理多个文件对象
+with open('../../static/file/wrtFile', 'r', encoding='UTF8') as f:
+    f.readline()
+    print(f.read())
+print('hello')
+
+
+

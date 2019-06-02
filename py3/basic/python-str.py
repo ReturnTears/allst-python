@@ -30,7 +30,12 @@ print('123.12'.isdigit())
 print('my lover is yang'.replace('lover', 'like'))
 print('My title title'.split('i', 2))
 
+# eval
+a = str({'beijing': {'No.1': 'GDP'}})
+print(type(a))
+print(a)
 
-
-
+a = eval(a)
+print(type(a))
+print(a['beijing'])
 
