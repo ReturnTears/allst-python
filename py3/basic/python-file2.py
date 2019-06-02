@@ -46,7 +46,7 @@ import sys, time
 # fileRead.close()
 # fileWrite.close()
 
-# with 推荐使用， 可以同时管理多个文件对象
+# with 推荐使用， 可以同时管理多个文件对象, 用了with后不需要手动close
 with open('../../static/disk/readFile.txt', 'r', encoding='UTF8') as fread,\
         open('../../static/disk/writeFile.txt', 'w', encoding='UTF8') as fwrite:
     for line in fread:
