@@ -1,7 +1,13 @@
+# 能调用方法的一定是对象
+li = [1, 2, 3]
+li.append('2')
+print(li)
+print('asc'.capitalize())
+
 # 想在文件的第4行后面添加点内容
 file = open('../../static/file/demoFile', 'r', encoding='utf8')
 data = file.readlines() # 文件较大时不要使用readlines
-file.close() #只对一个文件操作，可以读取到文件后就将其关闭
+file.close() 	# 只对一个文件操作，可以读取到文件后就将其关闭
 num = 0
 for i in data:
 	num += 1
@@ -9,8 +15,10 @@ for i in data:
 		i = ''.join([i.strip(), '********']) # 字符串的拼接用join不用+
 
 f = open('../../static/file/demoFile', 'r', encoding='UTF-8')
-for j in f:      # 这里是for内部将f对象处理成了一个迭代器, 读一行取一行
+# 这里是for内部将f对象处理成了一个迭代器, 读一行取一行
+for j in f:
     print(j.strip())
+
 
 # 获取光标的位置   tell会区分中英文, 英文1个字符, 中文3个字符
 print(f.tell())
