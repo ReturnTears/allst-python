@@ -18,6 +18,15 @@ s2 = s.copy()
 print(s2)
 s2[0][1] = 20
 print(s2)
+# s里面的内容也被修改了, 修改字符串时拷贝的没有变化, 修改列表时有变化
 print(s)
 
+# 深拷贝: 拷贝的整个对象
+import copy
+a = ["zha", 123, [10000, 5000]]
+b = copy.deepcopy(a)
+b[0] = "xin"
+b[1] = 456
+
+print(a, b)
 
