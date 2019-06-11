@@ -41,6 +41,17 @@ outer2()
     
 '''
 
-
+# nonlocal关键字(用于修改嵌套作用域上的变量)
+def outer3():
+    count3 =7
+    def inner3():
+        nonlocal count3
+        count3 = 22
+        print(count3)
+    inner3()
+    print(count3)
+outer3()
+# 22
+# 22
 
 
