@@ -53,11 +53,14 @@ os.path.basename('path')
 os.path.exists('path')
 # 如果path是绝对路径,返回True
 os.path.isabs('path')
-#
+# 判断是否是文件,存在返回True, 反之False
 os.path.isfile('path')
-#
+# 判断是否是存在的目录,存在返回True, 反之False
 os.path.isdir('path')
 # 将多个路径组合返回
 os.path.join('path1', 'path2')
 # 返回path所指向的文件或目录的最后存取时间
 os.path.getatime('path')
+# 返回path所指向的文件或目录的最后修改时间
+os.path.getmtime('path')
+#
