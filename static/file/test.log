@@ -1,0 +1,3 @@
+2019-09-01 15:41:48,054 - python-hashlib-logging.py - WARNING - warning log record method 3
+2019-09-01 15:41:48,054 - python-hashlib-logging.py - ERROR - error log record method 3
+2019-09-01 15:41:48,054 - python-hashlib-logging.py - CRITICAL - critical log record method 3

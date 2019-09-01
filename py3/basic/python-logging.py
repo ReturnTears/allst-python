@@ -8,7 +8,7 @@ import logging
 # logging.basicConfig(level=logging.INFO,
 #                     format='%(asctime)s - %(filename)s [line:%(lineno)d] %(levelname)s %(message)s',
 #                     datefmt='%Y-%m-%d %H:%M:%S',
-#                     filename='test.log',
+#                     filename='../../static/file/test.log',
 #                     filemode='a')
 #
 # logging.debug('debug log record method 1')
@@ -20,7 +20,7 @@ import logging
 # 方式2
 # LOG_FORMAT = "%(asctime)s - %(levelname)s - %(message)s"    # 日志格式化输出
 # DATE_FORMAT = "%m/%d/%Y %H:%M:%S %p"                        # 日期格式
-# fp = logging.FileHandler('test.log', encoding='utf-8')
+# fp = logging.FileHandler('../../static/file/test.log', encoding='utf-8')
 # fs = logging.StreamHandler()
 # logging.basicConfig(level=logging.DEBUG, format=LOG_FORMAT, datefmt=DATE_FORMAT, handlers=[fp, fs])    # 调用
 #
@@ -35,7 +35,7 @@ import logging
 # 创建一个logger对象
 logger = logging.getLogger()
 # 创建一个handler,用于写入日志文件
-fh = logging.FileHandler('test.log')
+fh = logging.FileHandler('../../static/file/test.log')
 # 在创建以恶handler,用于输出到控制台
 ch = logging.StreamHandler()
 
