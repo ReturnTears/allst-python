@@ -1,0 +1,719 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6e69eec8-9167-4bf6-bcc6-536fe2c40f7b" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="allst-python" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="MERGE" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/algo/fib.py" />
+        <option value="$PROJECT_DIR$/py3/basic/python-str.py" />
+        <option value="$PROJECT_DIR$/py3/basic/python-file3.py" />
+        <option value="$PROJECT_DIR$/static/file/demoFile" />
+        <option value="$PROJECT_DIR$/py3/basic/python-file.py" />
+        <option value="$PROJECT_DIR$/static/disk/readFile.txt" />
+        <option value="$PROJECT_DIR$/py3/basic/python-keyword.py" />
+        <option value="$PROJECT_DIR$/py3/basic/python-file2.py" />
+        <option value="$PROJECT_DIR$/py3/func/python-copy.py" />
+        <option value="$PROJECT_DIR$/py3/basic/python-set.py" />
+        <option value="$PROJECT_DIR$/static/file/log.txt" />
+        <option value="$PROJECT_DIR$/py3/func/python-funca.py" />
+        <option value="$PROJECT_DIR$/py3/func/python-funcb.py" />
+        <option value="$PROJECT_DIR$/py3/func/python-scope.py" />
+        <option value="$PROJECT_DIR$/py3/func/funcc.py" />
+        <option value="$PROJECT_DIR$/py3/func/python-funcc.py" />
+        <option value="$PROJECT_DIR$/py3/func/python-built-in-func.py" />
+        <option value="$PROJECT_DIR$/py3/func/python-close.py" />
+        <option value="$PROJECT_DIR$/py3/func/python-decrator.py" />
+        <option value="$PROJECT_DIR$/py3/func/python-listGene.py" />
+        <option value="$PROJECT_DIR$/py3/func/func-yield.py" />
+        <option value="$PROJECT_DIR$/py3/basic/python-time.py" />
+        <option value="$PROJECT_DIR$/py3/basic/python-random.py" />
+        <option value="$PROJECT_DIR$/py3/func/python-generate.py" />
+        <option value="$PROJECT_DIR$/py3/basic/python-os.py" />
+        <option value="$PROJECT_DIR$/py3/basic/python-sys.py" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/py3/basic/python-hashlib-md5.py" />
+        <option value="$PROJECT_DIR$/py3/basic/python-hashlib-logging.py" />
+        <option value="$PROJECT_DIR$/static/file/test.log" />
+        <option value="$PROJECT_DIR$/static/resources/example.ini" />
+        <option value="$PROJECT_DIR$/py3/basic/python-configParser.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1225" />
+    <option name="y" value="10" />
+    <option name="width" value="1385" />
+    <option name="height" value="1095" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <showMembers ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/py3/basic" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\PycharmProjects\allst-python\static\file" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\PycharmProjects\allst-python\py3\basic" />
+      <recent name="E:\PycharmProjects\allst-python" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\June\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6e69eec8-9167-4bf6-bcc6-536fe2c40f7b" name="Default Changelist" comment="" />
+      <created>1557154789057</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557154789057</updated>
+      <workItem from="1557154801471" duration="119000" />
+      <workItem from="1557154943796" duration="2006000" />
+      <workItem from="1559230775465" duration="377000" />
+      <workItem from="1559441286019" duration="35000" />
+      <workItem from="1559441489355" duration="224000" />
+      <workItem from="1559441765517" duration="424000" />
+      <workItem from="1559442225953" duration="7211000" />
+      <workItem from="1559658008449" duration="1742000" />
+      <workItem from="1559746827477" duration="708000" />
+      <workItem from="1559826228857" duration="314000" />
+      <workItem from="1559866141900" duration="18578000" />
+      <workItem from="1559957324166" duration="2322000" />
+      <workItem from="1559985899734" duration="982000" />
+      <workItem from="1560261593927" duration="5463000" />
+      <workItem from="1560344652350" duration="1376000" />
+      <workItem from="1560953240436" duration="4748000" />
+      <workItem from="1562506622631" duration="5833000" />
+      <workItem from="1562948841916" duration="42000" />
+      <workItem from="1563716311290" duration="5070000" />
+      <workItem from="1564232944076" duration="6895000" />
+      <workItem from="1564281265426" duration="1038000" />
+      <workItem from="1564408089947" duration="386000" />
+      <workItem from="1564408506139" duration="2165000" />
+      <workItem from="1566314816221" duration="30000" />
+      <workItem from="1566314870830" duration="2156000" />
+      <workItem from="1566317126383" duration="156000" />
+      <workItem from="1567318969976" duration="7012000" />
+      <workItem from="1567326231568" duration="437000" />
+      <workItem from="1568296234879" duration="249000" />
+    </task>
+    <task id="LOCAL-00001" summary="添加README.md">
+      <created>1557155261567</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1557155261567</updated>
+    </task>
+    <task id="LOCAL-00002" summary="学习斐波拉基算法">
+      <created>1557156990163</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1557156990163</updated>
+    </task>
+    <task id="LOCAL-00003" summary="python对文件的操作">
+      <created>1559441661984</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1559441661984</updated>
+    </task>
+    <task id="LOCAL-00004" summary="python: eval with的用法">
+      <created>1559442335875</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1559442335875</updated>
+    </task>
+    <task id="LOCAL-00005" summary="python: eval with的用法">
+      <created>1559445608596</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1559445608596</updated>
+    </task>
+    <task id="LOCAL-00006" summary="python: 简单回顾">
+      <created>1559473843229</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1559473843229</updated>
+    </task>
+    <task id="LOCAL-00007" summary="python: set和function初识">
+      <created>1559886989558</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1559886989558</updated>
+    </task>
+    <task id="LOCAL-00008" summary="python: function初识">
+      <created>1559921605771</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1559921605771</updated>
+    </task>
+    <task id="LOCAL-00009" summary="python: 作用域scope">
+      <created>1559958799630</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1559958799630</updated>
+    </task>
+    <task id="LOCAL-00010" summary="python: 作用域scope">
+      <created>1559959477598</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1559959477598</updated>
+    </task>
+    <task id="LOCAL-00011" summary="python: 高阶函数">
+      <created>1560264405180</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1560264405180</updated>
+    </task>
+    <task id="LOCAL-00012" summary="python: 递归函数">
+      <created>1560267586836</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1560267586836</updated>
+    </task>
+    <task id="LOCAL-00013" summary="python: 内置函数">
+      <created>1560346019024</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1560346019024</updated>
+    </task>
+    <task id="LOCAL-00014" summary="python装饰器">
+      <created>1560958054367</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1560958054367</updated>
+    </task>
+    <task id="LOCAL-00015" summary="python生成器">
+      <created>1562512823205</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1562512823206</updated>
+    </task>
+    <task id="LOCAL-00016" summary="python time模块">
+      <created>1563722114357</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1563722114372</updated>
+    </task>
+    <task id="LOCAL-00017" summary="python random,os模块">
+      <created>1564281902723</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1564281902723</updated>
+    </task>
+    <task id="LOCAL-00018" summary="python random,os模块">
+      <created>1566316978658</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1566316978658</updated>
+    </task>
+    <task id="LOCAL-00019" summary="python sys模块,hashlib模块">
+      <created>1566317190398</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1566317190398</updated>
+    </task>
+    <task id="LOCAL-00020" summary="python hashlib模块,logging模块">
+      <created>1567323309811</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1567323309811</updated>
+    </task>
+    <task id="LOCAL-00021" summary="python configparser模块">
+      <created>1567325654599</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1567325654599</updated>
+    </task>
+    <task id="LOCAL-00022" summary="python configparser模块">
+      <created>1567325844229</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1567325844229</updated>
+    </task>
+    <task id="LOCAL-00023" summary="python configparser模块">
+      <created>1567325938302</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1567325938302</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="78098000" />
+  </component>
+  <component name="TodoView" selected-index="3">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49859154" visible="true" weight="0.27710843" />
+      <window_info id="Structure" order="1" sideWeight="0.50140846" side_tool="true" weight="0.25033468" />
+      <window_info id="Favorites" order="2" sideWeight="0.50140846" side_tool="true" weight="0.25033468" />
+      <window_info id="Alibaba Cloud Explorer" order="3" weight="0.3299866" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4966533" weight="0.258597" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39724138" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49956858" weight="0.32737276" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49933067" weight="0.3314993" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32737276" />
+      <window_info anchor="bottom" id="Python Console" order="11" sideWeight="0.49956858" weight="0.32599726" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.50334674" side_tool="true" weight="0.25997248" />
+      <window_info anchor="bottom" id="Alibaba Cloud View" order="13" weight="0.3287483" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.32931727" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32931727" />
+      <window_info anchor="right" id="Alibaba Log Console" order="5" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="添加README.md" />
+    <MESSAGE value="学习斐波拉基算法" />
+    <MESSAGE value="python对文件的操作" />
+    <MESSAGE value="python: eval with的用法" />
+    <MESSAGE value="python: 简单回顾" />
+    <MESSAGE value="python: set和function初识" />
+    <MESSAGE value="python: function初识" />
+    <MESSAGE value="python: 作用域scope" />
+    <MESSAGE value="python: 高阶函数" />
+    <MESSAGE value="python: 递归函数" />
+    <MESSAGE value="python: 内置函数" />
+    <MESSAGE value="python装饰器" />
+    <MESSAGE value="python生成器" />
+    <MESSAGE value="python time模块" />
+    <MESSAGE value="python random,os模块" />
+    <MESSAGE value="python sys模块,hashlib模块" />
+    <MESSAGE value="python hashlib模块,logging模块" />
+    <MESSAGE value="python configparser模块" />
+    <option name="LAST_COMMIT_MESSAGE" value="python configparser模块" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/allst_python$python_built_in_func.coverage" NAME="python-built-in-func Coverage Results" MODIFIED="1560345935044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py3/func" />
+    <SUITE FILE_PATH="coverage/allst_python$python_scope.coverage" NAME="python-scope Coverage Results" MODIFIED="1560265427774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py3/func" />
+    <SUITE FILE_PATH="coverage/allst_python$python_str.coverage" NAME="python-str Coverage Results" MODIFIED="1559441870470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py3/basic" />
+    <SUITE FILE_PATH="coverage/allst_python$python_set.coverage" NAME="python-set Coverage Results" MODIFIED="1559873329207" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py3/basic" />
+    <SUITE FILE_PATH="coverage/allst_python$python_copy.coverage" NAME="python-copy Coverage Results" MODIFIED="1559868155330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py3/func" />
+    <SUITE FILE_PATH="coverage/allst_python$python_listGene.coverage" NAME="python-listGene Coverage Results" MODIFIED="1562509140260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py3/func" />
+    <SUITE FILE_PATH="coverage/allst_python$python_file2.coverage" NAME="python-file2 Coverage Results" MODIFIED="1559445574664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py3/basic" />
+    <SUITE FILE_PATH="coverage/allst_python$python_os.coverage" NAME="python-os Coverage Results" MODIFIED="1564237235791" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py3/basic" />
+    <SUITE FILE_PATH="coverage/allst_python$python_funcc.coverage" NAME="python-funcc Coverage Results" MODIFIED="1560267554724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py3/func" />
+    <SUITE FILE_PATH="coverage/allst_python$python_file.coverage" NAME="python-file Coverage Results" MODIFIED="1559443995590" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py3/basic" />
+    <SUITE FILE_PATH="coverage/allst_python$python_time.coverage" NAME="python-time Coverage Results" MODIFIED="1564236743819" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py3/basic" />
+    <SUITE FILE_PATH="coverage/allst_python$python_sys.coverage" NAME="python-sys Coverage Results" MODIFIED="1566316106069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py3/basic" />
+    <SUITE FILE_PATH="coverage/allst_python$python_configParser.coverage" NAME="python-configParser Coverage Results" MODIFIED="1567325522582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py3/basic" />
+    <SUITE FILE_PATH="coverage/allst_python$python_file3.coverage" NAME="python-file3 Coverage Results" MODIFIED="1559442919164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py3/basic" />
+    <SUITE FILE_PATH="coverage/allst_python$python_hashlib_md5.coverage" NAME="python-hashlib-md5 Coverage Results" MODIFIED="1567320303521" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py3/basic" />
+    <SUITE FILE_PATH="coverage/allst_python$fib.coverage" NAME="fib Coverage Results" MODIFIED="1557156894125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algo" />
+    <SUITE FILE_PATH="coverage/allst_python$python_funcb.coverage" NAME="python-funcb Coverage Results" MODIFIED="1560264330728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py3/func" />
+    <SUITE FILE_PATH="coverage/allst_python$python_close.coverage" NAME="python-close Coverage Results" MODIFIED="1560954661274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py3/func" />
+    <SUITE FILE_PATH="coverage/allst_python$python_hashlib_logging.coverage" NAME="python-hashlib-logging Coverage Results" MODIFIED="1567323707919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py3/basic" />
+    <SUITE FILE_PATH="coverage/allst_python$python_keyword.coverage" NAME="python-keyword Coverage Results" MODIFIED="1559473062103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py3/basic" />
+    <SUITE FILE_PATH="coverage/allst_python$python_random.coverage" NAME="python-random Coverage Results" MODIFIED="1564234658201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py3/basic" />
+    <SUITE FILE_PATH="coverage/allst_python$python_funca.coverage" NAME="python-funca Coverage Results" MODIFIED="1559895009769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py3/func" />
+    <SUITE FILE_PATH="coverage/allst_python$python_generate.coverage" NAME="python-generate Coverage Results" MODIFIED="1562511554469" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py3/func" />
+    <SUITE FILE_PATH="coverage/allst_python$python_decrator.coverage" NAME="python-decrator Coverage Results" MODIFIED="1560957872265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py3/func" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/py3/basic/python-str.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/file/demoFile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="12" lean-forward="true" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/file/wrtFile">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/disk/writeFile.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/disk/readFile.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/py3/basic/python-keyword.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/py3/basic/python-file3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="25" column="9" lean-forward="true" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/py3/func/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/py3/basic/python-file2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="49" column="30" selection-start-line="49" selection-start-column="30" selection-end-line="49" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/file/log.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/py3/basic/python-set.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="65" column="4" lean-forward="true" selection-start-line="65" selection-start-column="4" selection-end-line="65" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/py3/func/python-funca.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="867">
+          <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/py3/func/python-funcc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="8" lean-forward="true" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/py3/func/python-funcb.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="37" column="12" selection-start-line="37" selection-start-column="12" selection-end-line="37" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/py3/func/python-close.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="6" lean-forward="true" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/py3/func/python-scope.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="13" column="16" lean-forward="true" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/py3/basic/python-coding.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/py3/func/python-copy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="10" lean-forward="true" selection-start-line="28" selection-start-column="10" selection-end-line="28" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/py3/func/python-built-in-func.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="8" lean-forward="true" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/py3/func/python-listGene.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="8" lean-forward="true" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/py3/func/python-decrator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="53" column="17" lean-forward="true" selection-start-line="53" selection-start-column="17" selection-end-line="53" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/py3/func/func-yield.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/py3/func/python-generate.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/py3/basic/python-random.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="10" lean-forward="true" selection-start-line="31" selection-start-column="10" selection-end-line="31" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/py3/basic/python-os.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="884">
+          <caret line="52" column="22" lean-forward="true" selection-start-line="52" selection-start-column="22" selection-end-line="52" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/py3/basic/python-sys.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="490">
+          <caret line="29" column="27" selection-start-line="29" selection-start-column="27" selection-end-line="29" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algo/fib.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="15" lean-forward="true" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/py3/basic/python-time.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="19" lean-forward="true" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="502">
+            <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Program Files (x86)/Python36-32/Lib/logging/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1020" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/py3/basic/python-hashlib-md5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="4" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/py3/advs/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/py3/basic/a.log" />
+    <entry file="file://$PROJECT_DIR$/py3/basic/python-file.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="24" column="27" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/file/test.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/py3/basic/python-logging.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="371">
+          <caret line="44" column="26" lean-forward="true" selection-start-line="44" selection-start-column="26" selection-end-line="44" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/resources/example.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="17" lean-forward="true" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/py3/basic/python-configParser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="33" column="14" lean-forward="true" selection-start-line="33" selection-start-column="14" selection-end-line="33" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
