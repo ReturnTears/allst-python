@@ -1,4 +1,7 @@
 {
     "python.pythonPath": "D:\\Program Files (x86)\\Python36-32\\python.exe",
-    "git.autofetch": true
+    "git.autofetch": true,
+    "files.watcherExclude": {
+        "**/target": true
+    }
 }
