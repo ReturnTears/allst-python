@@ -11,3 +11,8 @@ a = 5
 print(type(a))
 a = "Hello"
 print(type(a))
+
+# Py3.12-f-string
+name = "Kang"
+print(f"Hello {name}", name.upper())
+print(f"{name} is {len(name)} characters long")
