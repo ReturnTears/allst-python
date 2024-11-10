@@ -21,3 +21,9 @@ def log(message, *details):
 
 def combine(*args, glue='-'):
     return glue.join(args)
+
+def sum(*args):
+    sum = 0
+    for i in args:
+        sum += i
+    return sum

@@ -9,3 +9,6 @@ py01.log("John", "Howdy", "June")
 
 combine_res = py01.combine('1', '2', '3', '4', '5', glue=',')
 print(combine_res)
+
+sum_res = py01.sum(1, 2, 3, 4, 5)
+print(sum_res)
