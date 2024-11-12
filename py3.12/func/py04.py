@@ -15,3 +15,5 @@ py.minxed_args(1,2,a=3,b=4)
 args = [1,2,3];
 print(py.add(*args))
 
+kwargs = {'name': 'Kang', 'age': 18}
+py.introduce(**kwargs)

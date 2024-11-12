@@ -32,3 +32,6 @@ def minxed_args(*args, **kwargs):
 
 def add(x, y, z):
     return x + y + z
+
+def introduce(name, age):
+    print(f"my name is {name} , and I`m {age} years old")
