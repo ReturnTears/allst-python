@@ -1,4 +1,4 @@
 # Python 3.12
 
 ## todo
-《Python 3.12 The Total Comprehensive Guide》 page 211
+《Python 3.12 The Total Comprehensive Guide》 page 227
