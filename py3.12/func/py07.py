@@ -34,3 +34,16 @@ print(product)
 words = ["verygood", "world", "python"]
 words.sort(key=lambda word:len(word))
 print(words)
+
+
+def square(n):
+    return n ** 2
+
+numbers = [1,2,3,4,5]
+squares = map(square, numbers)
+print(list(squares))
+
+def multiply(x, y):
+    return x * y
+product = reduce(multiply, numbers)
+print(product)
