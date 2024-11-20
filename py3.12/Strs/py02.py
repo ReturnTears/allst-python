@@ -9,3 +9,17 @@ print(str.title())
 
 extra_str = "  Hello, Python !   "
 print(extra_str.strip())
+
+
+str = "###Python##"
+print(str.strip("#"))
+
+str = "I like Python 2.7 ~"
+print(str.replace("2.7", "3.12"))
+
+str = "Python 3.12 is amezing !"
+res = str.split(" ")
+print(res)
+
+str = ",".join(res)
+print(str)
