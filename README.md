@@ -55,5 +55,14 @@ Day18-4 hashlib模块
 # todo
    
     
-    
+# Python
+```text
+1、查看版本
+   python -V
+
+2、在Python中可以使用pip与conda工具安装第三方库
+pip install 库的名称
+conda install 库的名称
+
+```    
     
